@@ -6,5 +6,5 @@
 let pageIdHeader = document.querySelector("[data-id-page-header]").getAttribute("data-id-page-header"),
     navItemHeader = document.querySelector(`[data-id-nav-header=${pageIdHeader}]`);
 if (pageIdHeader == navItemHeader.getAttribute("data-id-nav-header")) {
-    navItemHeader.classList.add("active");hhh111222666yytttyyy555ttt555544444
+    navItemHeader.classList.add("active");hhh111222666yytttyyy555ttt5555444445555ttteee
 }
